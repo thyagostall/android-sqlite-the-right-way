@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLite the right way!</string>
+    <string name="button_add_text">Add</string>
+</resources>
